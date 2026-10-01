@@ -7,5 +7,5 @@ data class Motor(
     val name: String = "",
     val series: String = "",
     val category: String = "",
-    @DrawableRes val image: Int = 0 // MODIFIKASI 2: gambar lokal per item
+    @DrawableRes val image: Int = 0
 )
